@@ -7,7 +7,7 @@
 .equ LOW, 0
 .equ HIGH, 1
 
-.equ LED_PIN, 1		// LED on wiringPi 1
+.equ LED_PIN, 1		// LED on wiringPi 1, physical pin 12
 
 .equ PAUSE, 75		// 75 ms delay = 0.075 second delay
 
